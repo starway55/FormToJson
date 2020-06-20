@@ -1,0 +1,153 @@
+.main-content {
+  text-align: center;
+}
+
+.plus-div {
+  margin-top: 10px;
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.form-border {
+  border-style: dashed;
+  border-color: rgba(0, 0, 0, .1);
+  border-width: 2px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+.form-row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.form-element {
+  color: black;
+}
+
+.click-area-plus-button{
+  width: 20px;
+  cursor: pointer;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.main-title{
+  font-size: 24px;
+  font-weight: 650;
+  line-height: 100%;
+  padding-top: 30px;
+  padding-bottom: 35px;
+}
+
+.form-type-title{
+  text-align: left;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.title-input{
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.title-input:focus{
+  border: 0;
+  box-shadow: none;
+}
+
+.description-input{
+  margin-bottom: 8px;
+}
+
+.description-input:focus{
+  border: 0;
+  box-shadow: none;
+}
+
+.textboxPlaceHolder{
+  resize: none;
+  margin-bottom: 8px;
+  width: 100% !important;
+}
+
+.textboxPlaceHolder:focus{
+  resize: none;
+  border: 0;
+  box-shadow: none;
+  width: 100%;
+}
+
+.checkbox-textboxForm{
+  margin-top: 8px !important;
+}
+
+.checkbox-label-textboxForm{
+  margin-top: 8px !important;
+}
+
+.form-inline{
+  align-items: initial;
+}
+
+.choice-row{
+  margin-left: 20px;
+  width: 300px;
+  background-color: rgb(241, 238, 238);
+}
+
+.choice-input{
+  display: inline-block;
+  margin-left: 0px;
+  width: 90%;
+  background-color: rgb(241, 238, 238);
+}
+
+.add-button{
+  text-align: left;
+  display: inline-block;
+  margin-left: 0px;
+  background-color: rgb(241, 238, 238);
+}
+
+button.close{
+  margin-right: 10px;
+  display: inline-block;
+  height: 35px;
+}
+
+.choice-input:focus{
+  border: 0;
+  box-shadow: none;
+  background-color: rgb(241, 238, 238);
+}
+
+.choice-div{
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+.line-break{
+  width: 95%;
+}
+
+.checkbox-section{
+  margin-bottom: 18px;
+  margin-top: 6px;
+}
+
+.delete-button{
+  margin-bottom: 15px;
+}
+
+.required-checkbox{
+  margin-top: 9px !important;
+}
+
+.required-label{
+  margin-top: 9px;
+}

@@ -1,0 +1,27 @@
+.click-area-multiple-choice{
+    width: 136px;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    background-color: rgb(241, 238, 238);
+    height: 2rem;
+
+    display : flex;
+    align-items : center;
+    justify-content: center;
+}
+
+.click-area-text-area{
+    width: 92px;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    background-color: rgb(241, 238, 238);
+    height: 2rem;
+
+    display : flex;
+    align-items : center;
+    justify-content: center;
+}
